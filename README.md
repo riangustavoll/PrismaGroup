@@ -29,10 +29,10 @@ Nossa equipe organizou as decisões utilizando metodologias ágeis. Cada integra
 
 | Integrante | Papel Técnico | Responsabilidade Principal |
 | :--- | :--- | :--- |
-| **[Nome 1]** | *Ex: UX/UI Design* | Garantir interface simples e acessível para o público das clínicas populares. |
-| **[Nome 2]** | *Ex: Segurança da Informação* | Garantir a criptografia e proteção jurídica dos dados médicos dos pacientes. |
-| **[Nome 3]** | *Ex: Banco de Dados* | Modelar a estrutura que unifica os agendamentos e impede dados duplicados. |
-| **[Nome 4]** | *Ex: Gerência de Projetos* | Alinhamento de prazos, escopo do MVP e integração do time. |
+| **[Rian luna / Felipe Lima]** | *Ex: UX/UI Design* | Garantir interface simples e acessível para o público das clínicas populares. |
+| **[Elis Regina]** | *Ex: Segurança da Informação* | Garantir a criptografia e proteção jurídica dos dados médicos dos pacientes. |
+| **[Severino Simão]** | *Ex: Banco de Dados* | Modelar a estrutura que unifica os agendamentos e impede dados duplicados. |
+| **[João Aragão / Miguel Guimãraes** | *Ex: Gerência de Projetos* | Alinhamento de prazos, escopo do MVP e integração do time. |
 
 > 📁 *As justificativas detalhadas de cada área técnica, interações entre papéis e os impactos da ausência de cada função estão documentados na pasta `/documentacao/papeis-tecnicos`.*
 
@@ -51,10 +51,6 @@ Como lidamos com dados sensíveis de saúde, o projeto foi desenhado sob quatro 
 
 Abaixo estão os links ou acessos rápidos para as postagens profissionais de cada integrante simulando a atuação real no projeto:
 
-*   [Postagem LinkedIn - UX/UI (Nome 1)](./documentacao/linkedin-ux.md)
-*   [Postagem LinkedIn - Segurança (Nome 2)](./documentacao/linkedin-seguranca.md)
-*   [Postagem LinkedIn - Banco de Dados (Nome 3)](./documentacao/linkedin-dados.md)
-*   [Postagem LinkedIn - Gestão (Nome 4)](./documentacao/linkedin-gestao.md)
-
+*   [Postagem LinkedIn - UX/UI (Nome 1)]www.linkedin.com/in/rian-lunall
 ---
 *Trabalho acadêmico desenvolvido para a apresentação do dia 17 de setembro pela equipe **Prisma Group**.*
